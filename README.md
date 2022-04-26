@@ -1,5 +1,7 @@
 # gummy-60-hidden-jst
 
+JST version of https://github.com/glizzy-goblin/gummy-60
+
 Only h60 support with this version of the board :( 
 
 19.1mm front height (18.5 from front lip), 6 deg
