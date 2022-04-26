@@ -12,5 +12,5 @@ DB Screws: (m2 x 3mm) https://www.mcmaster.com/92000A010/
 
 All DB screw holes go through, two of the weight holes go through
 
-![pic](https://i.imgur.com/PRqMy17.png)
+![pic](https://i.imgur.com/jc82Gsl.png)
 
