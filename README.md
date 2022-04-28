@@ -14,3 +14,4 @@ All DB screw holes go through, two of the weight holes go through
 
 ![pic](https://i.imgur.com/jc82Gsl.png)
 
+disclaimer, this specific design has not been tested, but its based off of existing designs. use at your own risk
