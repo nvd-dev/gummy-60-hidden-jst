@@ -1,6 +1,6 @@
-# gummy-60-hidden-jst
+# glizzy-60-hidden-jst
 
-JST version of https://github.com/glizzy-goblin/gummy-60
+JST version of https://github.com/glizzy-goblin/glizzy-60
 
 Only h60 support with this version of the board :( 
 
